@@ -25,6 +25,7 @@ namespace CyberSafetyBotGUI_Fixed
             responses.Add("hi", "Hello! I'm your cybersecurity guide. Ask me anything about online safety.");
             responses.Add("thanks", "You're welcome! Stay safe out there.");
             responses.Add("thank you", "Happy to help! Remember to always be careful online.");
+            responses.Add("scam", "Scammer often create fake emergencies. Never send money or personal info to someone you don't know");
 
             topics.Add("password", @"=== PASSWORD SAFETY TIPS ===
 
