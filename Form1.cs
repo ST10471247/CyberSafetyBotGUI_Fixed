@@ -25,7 +25,7 @@ namespace CyberSafetyBotGUI_Fixed
 
             // Title label
             titleLabel = new Label();
-            titleLabel.Text = " MY CYBER BOT - STAY SAFE ONLINE! ";
+            titleLabel.Text = " MY CYBER SECURITY BOT - STAY SAFE ONLINE! ";
             titleLabel.Font = new Font("Segoe UI", 16, FontStyle.Bold);
             titleLabel.ForeColor = Color.FromArgb(0, 183, 255);
             titleLabel.BackColor = Color.FromArgb(45, 45, 50);
