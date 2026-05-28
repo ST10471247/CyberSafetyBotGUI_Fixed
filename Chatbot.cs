@@ -1,4 +1,5 @@
 ﻿using System;
+//This bot helps South Afrricans learn about online safety
 
 namespace CyberSafetyBotGUI_Fixed
 {
