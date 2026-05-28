@@ -63,7 +63,7 @@ namespace CyberSafetyBotGUI_Fixed
             sendButton.Size = new Size(105, 40);
             sendButton.Text = "SEND";
             sendButton.Font = new Font("Segoe UI", 11, FontStyle.Bold);
-            sendButton.BackColor = Color.FromArgb(0, 120, 215);
+            sendButton.BackColor = Color.FromArgb(50, 150, 50);
             sendButton.ForeColor = Color.White;
             sendButton.FlatStyle = FlatStyle.Flat;
             sendButton.FlatAppearance.BorderSize = 0;
