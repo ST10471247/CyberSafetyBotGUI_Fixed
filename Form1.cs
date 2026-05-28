@@ -16,7 +16,7 @@ namespace CyberSafetyBotGUI_Fixed
         public Form1()
         {
             // Window settings
-            this.Text = "Cybersecurity Awareness Bot";
+            this.Text = "Cybersecurity Awareness Bot!";
             this.Size = new Size(850, 650);
             this.StartPosition = FormStartPosition.CenterScreen;
             this.BackColor = Color.FromArgb(30, 30, 35);
