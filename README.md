@@ -1,3 +1,4 @@
+<img width="1577" height="939" alt="CI Workflow check" src="https://github.com/user-attachments/assets/c871f570-c7bc-4260-a882-d6cfe0ccff08" />
 
 #  Cybersecurity Awareness Chatbot
 
