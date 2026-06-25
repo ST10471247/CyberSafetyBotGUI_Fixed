@@ -1,3 +1,4 @@
+<img width="1599" height="849" alt="CI workflow check" src="https://github.com/user-attachments/assets/39188c41-c871-478c-8afb-07ae358a9d79" />
 #  Cybersecurity Awareness Chatbot
 
 **PROG5121 - Part 1, 2 & 3 (Final POE)**
